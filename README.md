@@ -13,10 +13,11 @@ The system provides 4 different methods: </br>
 
 
 ## Instructions: </br>
-1.Open cmd </br>
-2.Navigate to project directory </br>
-3. Run: python football_server.py </br>
-4.Open browser and navigate to http://localhost:5000 </br> 
+1.Clone the project to local PC </br>
+2.Open cmd </br>
+3.Navigate to project directory </br>
+4.Run: python ./inbal_levi.py </br>
+5.Open browser and navigate to http://localhost:5000 </br> 
 
 
 To get list of matches by team enter url:
