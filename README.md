@@ -20,16 +20,16 @@ The system provides 4 different methods: </br>
 
 
 To get list of matches by team enter url:
-http://localhost:5000/matchesByTeam?team=<team_name> </br> 
+http://localhost:5000/matchesByTeam?team='team_name' </br> 
 
 To get list of matches by team filtered by status enter url:
-http://localhost:5000/matchesByTeamAndStatus?team=<team_name>&status=<status> 
+http://localhost:5000/matchesByTeamAndStatus?team='team_name'&status='status' 
 
 To get list of matches by tournament enter url:
-http://localhost:5000/matchesByTournament?tournament=<tournament>  </br>
+http://localhost:5000/matchesByTournament?tournament='tournament'  </br>
 
 To get list of matches by tournament filtered by status enter url:
-http://localhost:5000/matchesByTournamentAndStatus?tournament=<tournament>&status=<status> 
+http://localhost:5000/matchesByTournamentAndStatus?tournament='tournament'&status='status' 
 
 
 ## Running examples: </br>
