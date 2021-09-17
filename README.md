@@ -13,7 +13,7 @@ The system provides 4 different methods: </br>
 
 
 ## Instructions: </br>
-1.Clone the project to local PC </br>
+1.Clone/Unzip the project to local PC </br>
 2.Open cmd </br>
 3.Navigate to project directory </br>
 4.Run: python ./inbal_levi.py </br>
