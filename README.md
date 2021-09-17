@@ -39,6 +39,10 @@ To get list of matches of "premier-league" tournament: http://localhost:5000/mat
 To get list of matches of "premier-league" tournament filtered by status "played": http://localhost:8080/matchesByTournamentAndStatus?tournament=premier-league&status=played </br>
 
 
+![image](https://user-images.githubusercontent.com/71599740/133821622-ceaaf01b-98d2-42f5-8ebc-b0982196f96c.png)
+
+
+
 ## Result: </br>
 Please see result on the web browser which contains the response for the "get" request in json format. </br>
 
