@@ -35,7 +35,7 @@ http://localhost:5000/matchesByTournamentAndStatus?tournament=<tournament>&statu
 ## Running examples: </br>
 To get list of matches of "Barnsley" team: http://localhost:5000/matchesByTeam?team=Barnsley </br>
 To get list of matches of "Burnley" team filtered by status "upcoming": http://localhost:5000/matchesByTeamAndStatus?team=Burnley&status=upcoming </br>
-To get list of matches of "premier-league" tournament http://localhost:5000/matchesByTournament?tournament=premier-league </br>
+To get list of matches of "premier-league" tournament: http://localhost:5000/matchesByTournament?tournament=premier-league </br>
 To get list of matches of "premier-league" tournament filtered by status "played": http://localhost:8080/matchesByTournamentAndStatus?tournament=premier-league&status=played </br>
 
 
