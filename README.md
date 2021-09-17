@@ -15,7 +15,7 @@ The system provides 4 different methods: </br>
 ## Instructions: </br>
 1.Open cmd </br>
 2.Navigate to project directory </br>
-3ץ Run: python football_server.py </br>
+3. Run: python football_server.py </br>
 4.Open browser and navigate to http://localhost:5000 </br> 
 
 
