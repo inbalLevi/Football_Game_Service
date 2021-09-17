@@ -12,7 +12,7 @@ The system provides 4 different methods: </br>
 • Get a list of matches by tournament filtered by status </br>
 
 
-Instructions: </br>
+## Instructions: </br>
 1.Open cmd </br>
 2.Navigate to project directory </br>
 3ץ Run: python football_server.py </br>
@@ -28,13 +28,13 @@ To get list of matches by tournament enter url: http://localhost:5000/matchesByT
 To get list of matches by tournament filtered by status enter url: http://localhost:5000/matchesByTournamentAndStatus?tournament=<tournament>&status=<status> </br>
 
 
-Running examples: </br>
+## Running examples: </br>
 To get list of matches of "Barnsley" team: http://localhost:5000/matchesByTeam?team=Barnsley </br>
 To get list of matches of "Burnley" team filtered by status "upcoming": http://localhost:5000/matchesByTeamAndStatus?team=Burnley&status=upcoming </br>
 To get list of matches of "premier-league" tournament http://localhost:5000/matchesByTournament?tournament=premier-league </br>
 To get list of matches of "premier-league" tournament filtered by status "played": http://localhost:8080/matchesByTournamentAndStatus?tournament=premier-league&status=played </br>
 
 
-Result: </br>
+## Result: </br>
 Please see result on the web browser which contains the response for the "get" request in json format. </br>
 
