@@ -1,16 +1,15 @@
 # football_game_service
 
 
-This project provides a football game service which allows the client to get the fixtures (upcoming matches) and the results of football matches from 2 csv files:
-
-result_played.csv
-result_upcoming.csv
-The restful api service is running on port 5000.
-The system provides 4 different methods:
-• Get a list of matches by team
-• Get a list of matches by team & status (played/upcoming)
-• Get a list of matches by tournament
-• Get a list of matches by tournament filtered by status
+This project provides a football game service which allows the client to get the fixtures (upcoming matches) and the results of football matches from 2 csv files:</br>
+result_played.csv </br>
+result_upcoming.csv </br>
+The restful api service is running on port 5000. </br>
+The system provides 4 different methods: </br>
+• Get a list of matches by team </br>
+• Get a list of matches by team & status (played/upcoming) </br>
+• Get a list of matches by tournament </br>
+• Get a list of matches by tournament filtered by status </br>
 
 
 Instructions:
