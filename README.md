@@ -40,6 +40,10 @@ To get list of matches of "premier-league" tournament filtered by status "played
 
 
 ![image](https://user-images.githubusercontent.com/71599740/133821622-ceaaf01b-98d2-42f5-8ebc-b0982196f96c.png)
+![image](https://user-images.githubusercontent.com/71599740/133821704-7d164678-9085-4330-a48b-5d8ef290cb44.png)
+![image](https://user-images.githubusercontent.com/71599740/133821865-11a18f12-c26c-4dce-aac5-d741daa75ff0.png)
+![image](https://user-images.githubusercontent.com/71599740/133821987-7b795842-40ad-4276-ad39-15f426f47f64.png)
+
 
 
 
